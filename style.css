@@ -192,14 +192,14 @@ footer {
   width: auto;
   height: 360px;
 }
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .project img,
   .project video {
     width: 100%;
     height: auto;
   }
-}
-.project .image-container {
+} */
+/* .project .image-container {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
@@ -225,4 +225,4 @@ footer {
   width: 100%;
   height: auto;
   margin-bottom: 20px;
-}
+} */
